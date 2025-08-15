@@ -1,5 +1,8 @@
 # Seleksi_Sister
 
+NIM: 13523032
+Nama: Nathan Jovial Hartono
+
 Berikut Mapping Directory dengan Soal pada <a href="https://docs.google.com/document/d/1G31VMHg9bdmN7qvU5Ud-S5KmOsrU2As2NYFB4AjFvd4/edit?tab=t.xmg71vvrf2pv#heading=h.g0nzmjnw16h0">Google Docs</a>
 
 
